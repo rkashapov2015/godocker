@@ -7,5 +7,9 @@
 ## Installation
 ```./install.sh```
 
+## Ports Containers
+* web: 8000
+* db: 5432
+
 ## Start
 ```docker compose up```
