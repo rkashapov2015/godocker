@@ -1,0 +1,8 @@
+tmp
+.idea
+.vscode
+.env.local
+!.gitignore
+*.tmp
+/logs/
+webproject
